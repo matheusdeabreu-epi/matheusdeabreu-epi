@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Matheus de Abreu 👋
 
-<!--
-**matheusdeabreu-epi/matheusdeabreu-epi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔬 PhD candidate in Cancer Epidemiology at A.C. Camargo Cancer Center, São Paulo
+- 🦷 Dentist (Federal University of Santa Catarina) turned epidemiologist
+- 💡 Interested in population-based cancer studies, statistical methods and health inequities
+- 🌎 Florianópolis, Brazil
 
-Here are some ideas to get you started:
+[selos: contador de visitas, R, ggplot2, Cancer Epidemiology]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- 📈 Survival analysis, regression modeling, spatial analysis and AI applied to cancer data, all in R
+- 🏥 Hospital-based and population-based registries (RHC, RCBP) and mortality data (SIM)
+
+## What you'll find here
+Code and reproducible analyses from my research, shared as papers get published.
+
+[gráfico de linguagens mais usadas]
