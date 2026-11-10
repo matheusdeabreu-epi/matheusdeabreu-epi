@@ -7,7 +7,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=matheusdeabreu-epi&label=Profile%20views&color=0e75b6&style=flat)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-survival%20plots-276DC3?style=flat)
 ![Cancer Epidemiology](https://img.shields.io/badge/Cancer-Epidemiology-c0392b?style=flat)
 
 ### 🧰 What I work with
@@ -23,5 +22,4 @@ Code and reproducible analyses from my research, shared as papers get published.
 
 [![Instagram](https://img.shields.io/badge/Instagram-estatisaude-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/estatisaude)
 [![Gmail](https://img.shields.io/badge/Gmail-matheusdeabreu.epi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdeabreu.epi@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20de%20Abreu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-deabreu/)
